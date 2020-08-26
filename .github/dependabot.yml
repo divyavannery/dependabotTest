@@ -1,8 +1,6 @@
-version: 2
-updates:
-- package-ecosystem: npm
-  directory: "/"
-  target_branch: "dev"
-  schedule:
-    interval: daily
-  open-pull-requests-limit: 10
+version: 1
+update_configs:
+  - package_manager: "javascript"
+    directory: "/"
+    update_schedule: "daily"
+    target_branch: "develop"
