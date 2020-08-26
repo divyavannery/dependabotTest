@@ -8,4 +8,5 @@ updates:
     schedule:
       interval: "daily"
     target-branch: "dev"
+    dependency-type: "production"
 
