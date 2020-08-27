@@ -134,7 +134,7 @@
     "qs": "6.6.0",
     "random-int": "1.0.0",
     "redis": "2.8.0",
-    "request": "2.88.0",
+    "request": "2.88.2",
     "requestretry": "4.0.0",
     "response-time": "2.3.2",
     "retry-axios": "0.3.2",
